@@ -1,6 +1,6 @@
 # fromWord2Site
 [![License](https://img.shields.io/badge/license-MIT-_red.svg)](https://opensource.org/licenses/MIT)  
-<img src="https://raw.githubusercontent.com/dokDork/fromWord2Site/refs/heads/main/images/fromWord2Site.jpg" width="250" height="250">  
+<img src="https://raw.githubusercontent.com/dokDork/fromWord2Site/refs/heads/main/images/fromWord2Site.png" width="250" height="250">  
 
 ## Description
 Starting from a list of words create a list of site name.
