@@ -31,3 +31,6 @@ cd /opt
 ```
 git clone https://github.com/dokDork/fromWord2Site.git
 ```
+
+---
+Author: Luigi Capuzzello (dokDork) · [Website](https://capuzzello.altervista.org/) · [LinkedIn](https://www.linkedin.com/in/luigi-capuzzello/)
